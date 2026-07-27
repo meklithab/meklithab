@@ -1,7 +1,5 @@
-## About Me
-Software Engineering student and developer.  
-Building scalable applications across web, mobile, and AI systems.
-
+## Hi👋, I'm Meklit Habtamu
+Software Engineer | AI/ML Enthusiast | Full-Stack & Mobile Developer
 ## Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" />
@@ -23,11 +21,13 @@ Building scalable applications across web, mobile, and AI systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" />
 </p>
 
 ## Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=meklithab&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meklithab&layout=compact&hide_border=true" height="160"/>
-</p>
+<div align="left">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meklithab" alt="GitHub Streak" />
+</div>
